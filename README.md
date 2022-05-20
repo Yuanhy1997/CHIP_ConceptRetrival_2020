@@ -1,1 +1,1 @@
-# CHIP_ConceptRetrival_2020
+# CHIP_ConceptRetrieval_2020
